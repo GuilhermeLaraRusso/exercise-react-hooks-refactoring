@@ -1,7 +1,7 @@
-// src/context/CarsContext.js
+// // src/context/CarsContext.js
 
-import { createContext } from 'react';
+// import { createContext } from 'react';
 
-const CarsContext = createContext();
+// const CarsContext = createContext();
 
-export default CarsContext;
+// export default {CarsContext};
